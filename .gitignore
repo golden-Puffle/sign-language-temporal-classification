@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Project data (too large for git; see README for download instructions)
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Model checkpoints (optional: remove these two lines if you want to commit small trained models)
+models/*
+!models/.gitkeep
