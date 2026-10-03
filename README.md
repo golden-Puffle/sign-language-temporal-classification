@@ -9,7 +9,7 @@ We recognise isolated sign-language words from video by extracting body and hand
 | Member | Role |
 |---|---|
 | Monisha | Data and preprocessing: dataset preparation, landmark extraction, normalisation, sequence generation, labelling, dataset analysis |
-| <teammate name> | Model and prediction: temporal classification architecture, training, tuning, evaluation, prediction/demo |
+| Nadeem | Model and prediction: temporal classification architecture, training, tuning, evaluation, prediction/demo |
 
 ## Dataset
 
