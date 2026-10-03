@@ -21,7 +21,7 @@ The raw videos and processed arrays are **not stored in this repo** (too large).
 2. Run `notebooks/01_data_preprocessing.ipynb`. It produces `wlasl25_landmarks.npz`, `label_map.json`, `config.json` and `metadata.csv`.
 3. Place those files in `data/processed/`.
 
-Processed data (ready to use): `<add Google Drive / Kaggle dataset link here>`
+Processed data (ready to use): `https://drive.google.com/drive/folders/1yMTiisowuMznuah1i9NfMWH5CF0-JjQ8?usp=sharing`
 
 ## Preprocessing pipeline
 
