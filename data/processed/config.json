@@ -1,0 +1,13 @@
+{
+  "num_classes": 25,
+  "time_steps": 40,
+  "num_features": 144,
+  "feature_layout": {
+    "pose(6 landmarks: L/R shoulder, L/R elbow, L/R wrist)": "0:18",
+    "left_hand(21)": "18:81",
+    "right_hand(21)": "81:144"
+  },
+  "coordinates": "x,y,z per landmark; relative to shoulder mid-point, divided by shoulder width",
+  "split_mode": "official",
+  "seed": 42
+}

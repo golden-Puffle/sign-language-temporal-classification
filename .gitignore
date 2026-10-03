@@ -225,3 +225,5 @@ data/processed/*
 # Model checkpoints (optional: remove these two lines if you want to commit small trained models)
 models/*
 !models/.gitkeep
+!data/processed/label_map.json
+!data/processed/config.json
